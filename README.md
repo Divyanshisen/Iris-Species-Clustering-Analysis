@@ -28,8 +28,6 @@ The objective is to perform **K-Means Clustering** on the Iris dataset and visua
 - Petal Length (cm)
 - Petal Width (cm)
 
-> The **Id** column is removed before model training because it does not contribute to clustering.
-
 ---
 
 ## Machine Learning Algorithm
