@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Clustering Project
+# 🌸 Iris Flower Clustering Analysis
 
 ## Bee Skilled Internship – Week 3
 
